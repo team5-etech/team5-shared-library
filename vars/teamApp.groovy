@@ -1,4 +1,4 @@
-def etech(datatype datavariable){
+def call(String repoUrl){
 pipeline {
        agent any
        tools {
